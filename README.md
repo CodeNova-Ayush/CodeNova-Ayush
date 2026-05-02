@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&fontSize=0" width="100%"/>
+<div align="center">
 
-```
- ██████╗ ██╗   ██╗██╗██╗     ██████╗     ██╗    ██╗  ██╗████████╗██╗  ██╗    ██╗████████╗
- ██╔══██╗██║   ██║██║██║     ██╔══██╗    ██║    ██║  ██║╚══██╔══╝██║  ██║    ██║╚══██╔══╝
- ██████╔╝██║   ██║██║██║     ██║  ██║    ██║    ███████║   ██║   ███████║    ██║   ██║   
- ██╔══██╗██║   ██║██║██║     ██║  ██║    ██║    ██╔══██║   ██║   ██╔══██║    ██║   ██║   
- ██████╔╝╚██████╔╝██║███████╗██████╔╝    ██║    ██║  ██║   ██║   ██║  ██║    ██║   ██║   
- ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝     ╚═╝    ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝   ╚═╝  
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=2000&color=F97316&center=true&vCenter=true&width=600&lines=💡+If+you+do+it+twice...+automate+it+the+third+time.)](https://git.io/typing-svg)
+
+</div>
 
 ###  Ayush Mishra  — Builder. Breaker. Learner. Improver. 
 "If you do it twice, automate it the third time."
