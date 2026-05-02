@@ -7,7 +7,7 @@
 </div>
 
 ###  Ayush Mishra  — Builder. Breaker. Learner. Improver. 
-     "Break it in dev, so it never breaks in prod"
+"Break it in dev, so it never breaks in prod"
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=+Full-Stack+Engineer+%F0%9F%94%A7;Building-Automations+%26+System+Builder+%F0%9F%8F%97%EF%B8%8F;Automation+Enthusiast+%F0%9F%A4%96;AI%2FML+Explorer+%F0%9F%A7%A0;I+build.+I+break.+I+learn.+I+improve.+%F0%9F%92%A1)](https://git.io/typing-svg)
 
